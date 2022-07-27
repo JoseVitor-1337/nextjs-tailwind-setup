@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="antialiased p-10 flex flex-col space-y-2 font-roboto">
-      <h1 className="text-2xl text-blue-500">Ferramentas usadas:</h1>
+      <h1 className="text-2xl text-blue-500">Ferramentas usadas no setup</h1>
       <ol className="font-sans text-lg">
         <li>Next JS</li>
         <li>React JS</li>
@@ -10,6 +10,7 @@ export default function Home() {
         <li>ESLint</li>
         <li>Prettier</li>
         <li>Husky</li>
+        <li>Cypress</li>
       </ol>
     </main>
   )
