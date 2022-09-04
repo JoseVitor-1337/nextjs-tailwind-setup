@@ -1,4 +1,4 @@
-# Next.js-setup
+# Setup: Nextjs with TailwindCSS
 
 ### To facilitate the use of the tools used in several projects, this same configuration was created as a development environment.
 
