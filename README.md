@@ -2,11 +2,7 @@
 
 ### To facilitate the use of the tools used in several projects, this same configuration was created as a development environment.
 
-<br />
-
 ![Badge projeto concluido](https://img.shields.io/badge/Status-Projeto%20concluido-blue)
-
-<br />
 
 ## Features
 
@@ -32,15 +28,12 @@
 10. <code>yarn format</code> format all root files by prettier rules
 11. <code>yarn check-all</code> run all validations
 
-<br />
-
 ## Installation
 
 > Need have **npm** or **yarn** installed [Install NPM](https://nodejs.org/en/) or [Install YARN](https://yarnpkg.com/)
 
 > Need have **git** installed [Go Here to install](https://git-scm.com/downloads)
 
-<br />
 
 ## Usage
 
